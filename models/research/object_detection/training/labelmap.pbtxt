@@ -1,0 +1,144 @@
+item {
+    id: 1
+    name: 'white_pawn'
+}
+
+item {
+    id: 2
+    name: 'white_bishop'
+}
+
+item {
+    id: 3
+    name: 'white_knight'
+}
+
+item {
+    id: 4
+    name: 'white_rook'
+}
+
+item {
+    id: 5
+    name: 'white_king'
+}
+
+item {
+    id: 6
+    name: 'white_queen'
+}
+
+item {
+    id: 7
+    name: 'black_pawn'
+}
+
+item {
+    id: 8
+    name: 'black_bishop'
+}
+
+item {
+    id: 9
+    name: 'black_knight'
+}
+
+item {
+    id: 10
+    name: 'black_rook'
+}
+
+item {
+    id: 11
+    name: 'black_king'
+}
+
+item {
+    id: 12
+    name: 'black_queen'
+}
+
+item {
+    id: 13
+    name: 'rank_1'
+}
+
+item {
+    id: 14
+    name: 'rank_2'
+}
+
+item {
+    id: 15
+    name: 'rank_3'
+}
+
+item {
+    id: 16
+    name: 'rank_4'
+}
+
+item {
+    id: 17
+    name: 'rank_5'
+}
+
+item {
+    id: 18
+    name: 'rank_6'
+}
+
+item {
+    id: 19
+    name: 'rank_7'
+}
+
+item {
+    id: 20
+    name: 'rank_8'
+}
+
+item {
+    id: 21
+    name: 'file_a'
+}
+
+item {
+    id: 22
+    name: 'file_b'
+}
+
+item {
+    id: 23
+    name: 'file_c'
+}
+
+item {
+    id: 24
+    name: 'file_d'
+}
+
+item {
+    id: 25
+    name: 'file_e'
+}
+
+item {
+    id: 26
+    name: 'file_f'
+}
+
+item {
+    id: 27
+    name: 'file_g'
+}
+
+item {
+    id: 28
+    name: 'file_h'
+}
+
+item {
+    id: 29
+    name: 'outline'
+}
